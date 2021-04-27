@@ -1,0 +1,4 @@
+hSPE\admin\testcases\homepagetest.class
+hSPE\admin\testcases\logintestcases.class
+hSPE\admin\testcases\frontofficetest.class
+hSPE\admin\testcases\visitorpagetest.class

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-25T13:21:09Z" name="Suite" finished-at="2021-04-25T13:32:20Z" duration-ms="670839">
+    <groups>
+    </groups>
+    <test started-at="2021-04-25T13:21:09Z" name="Test" finished-at="2021-04-25T13:32:20Z" duration-ms="670839">
+      <class name="hSPE.admin.testcases.homepagetest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:hSPE.admin.testcases.homepagetest@5082d622]" started-at="2021-04-25T18:53:55Z" name="beforeMethod" finished-at="2021-04-25T18:55:02Z" duration-ms="67408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checktitletest()[pri:3, instance:hSPE.admin.testcases.homepagetest@5082d622]" started-at="2021-04-25T18:55:02Z" name="checktitletest" finished-at="2021-04-25T18:55:02Z" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checktitletest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:hSPE.admin.testcases.homepagetest@5082d622]" started-at="2021-04-25T18:55:02Z" name="afterMethod" finished-at="2021-04-25T18:55:03Z" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:hSPE.admin.testcases.homepagetest@5082d622]" started-at="2021-04-25T18:55:03Z" name="beforeMethod" finished-at="2021-04-25T18:55:46Z" duration-ms="43689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkuserlabel()[pri:4, instance:hSPE.admin.testcases.homepagetest@5082d622]" started-at="2021-04-25T18:55:46Z" name="checkuserlabel" finished-at="2021-04-25T18:55:51Z" duration-ms="4301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkuserlabel -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:hSPE.admin.testcases.homepagetest@5082d622]" started-at="2021-04-25T18:55:51Z" name="afterMethod" finished-at="2021-04-25T18:55:51Z" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:hSPE.admin.testcases.homepagetest@5082d622]" started-at="2021-04-25T18:55:51Z" name="beforeMethod" finished-at="2021-04-25T18:56:36Z" duration-ms="45023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkfrontofficeclick()[pri:5, instance:hSPE.admin.testcases.homepagetest@5082d622]" started-at="2021-04-25T18:56:36Z" name="checkfrontofficeclick" finished-at="2021-04-25T18:56:42Z" duration-ms="6143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkfrontofficeclick -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:hSPE.admin.testcases.homepagetest@5082d622]" started-at="2021-04-25T18:56:42Z" name="afterMethod" finished-at="2021-04-25T18:56:43Z" duration-ms="532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- hSPE.admin.testcases.homepagetest -->
+      <class name="hSPE.admin.testcases.visitorpagetest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:hSPE.admin.testcases.visitorpagetest@302f7971]" started-at="2021-04-25T18:51:23Z" name="beforeMethod" finished-at="2021-04-25T18:52:12Z" duration-ms="49529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyexceldata([Ljava.lang.String;)[pri:0, instance:hSPE.admin.testcases.visitorpagetest@302f7971]" started-at="2021-04-25T18:52:12Z" name="verifyexceldata" data-provider="getdata" finished-at="2021-04-25T18:52:38Z" duration-ms="25629" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7f642bf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyexceldata -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:hSPE.admin.testcases.visitorpagetest@302f7971]" started-at="2021-04-25T18:52:38Z" name="afterMethod" finished-at="2021-04-25T18:52:38Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:hSPE.admin.testcases.visitorpagetest@302f7971]" started-at="2021-04-25T18:58:43Z" name="beforeMethod" finished-at="2021-04-25T18:59:41Z" duration-ms="57806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyvisitortext()[pri:8, instance:hSPE.admin.testcases.visitorpagetest@302f7971]" started-at="2021-04-25T18:59:41Z" name="verifyvisitortext" finished-at="2021-04-25T18:59:41Z" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyvisitortext -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:hSPE.admin.testcases.visitorpagetest@302f7971]" started-at="2021-04-25T18:59:41Z" name="afterMethod" finished-at="2021-04-25T18:59:41Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:hSPE.admin.testcases.visitorpagetest@302f7971]" started-at="2021-04-25T18:59:41Z" name="beforeMethod" finished-at="2021-04-25T19:00:52Z" duration-ms="70457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyadvisitortitle()[pri:9, instance:hSPE.admin.testcases.visitorpagetest@302f7971]" started-at="2021-04-25T19:00:52Z" name="verifyadvisitortitle" finished-at="2021-04-25T19:01:03Z" duration-ms="11262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyadvisitortitle -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:hSPE.admin.testcases.visitorpagetest@302f7971]" started-at="2021-04-25T19:01:03Z" name="beforeMethod" finished-at="2021-04-25T19:01:59Z" duration-ms="55777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:hSPE.admin.testcases.visitorpagetest@302f7971]" started-at="2021-04-25T19:01:03Z" name="afterMethod" finished-at="2021-04-25T19:01:03Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="verifyaddvisitor()[pri:10, instance:hSPE.admin.testcases.visitorpagetest@302f7971]" started-at="2021-04-25T19:01:59Z" name="verifyaddvisitor" finished-at="2021-04-25T19:02:20Z" duration-ms="21660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyaddvisitor -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:hSPE.admin.testcases.visitorpagetest@302f7971]" started-at="2021-04-25T19:02:20Z" name="afterMethod" finished-at="2021-04-25T19:02:20Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- hSPE.admin.testcases.visitorpagetest -->
+      <class name="hSPE.admin.testcases.logintestcases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:hSPE.admin.testcases.logintestcases@18e36d14]" started-at="2021-04-25T18:51:09Z" name="setup" finished-at="2021-04-25T18:51:21Z" duration-ms="11454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="titletest()[pri:0, instance:hSPE.admin.testcases.logintestcases@18e36d14]" started-at="2021-04-25T18:51:21Z" name="titletest" finished-at="2021-04-25T18:51:21Z" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titletest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:hSPE.admin.testcases.logintestcases@18e36d14]" started-at="2021-04-25T18:51:21Z" name="teardown" finished-at="2021-04-25T18:51:21Z" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:hSPE.admin.testcases.logintestcases@18e36d14]" started-at="2021-04-25T18:52:38Z" name="setup" finished-at="2021-04-25T18:53:11Z" duration-ms="33080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logotest()[pri:1, instance:hSPE.admin.testcases.logintestcases@18e36d14]" started-at="2021-04-25T18:53:11Z" name="logotest" finished-at="2021-04-25T18:53:11Z" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logotest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:hSPE.admin.testcases.logintestcases@18e36d14]" started-at="2021-04-25T18:53:11Z" name="teardown" finished-at="2021-04-25T18:53:14Z" duration-ms="2552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:hSPE.admin.testcases.logintestcases@18e36d14]" started-at="2021-04-25T18:53:14Z" name="setup" finished-at="2021-04-25T18:53:27Z" duration-ms="13346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:2, instance:hSPE.admin.testcases.logintestcases@18e36d14]" started-at="2021-04-25T18:53:27Z" name="login" finished-at="2021-04-25T18:53:54Z" duration-ms="26645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:hSPE.admin.testcases.logintestcases@18e36d14]" started-at="2021-04-25T18:53:54Z" name="teardown" finished-at="2021-04-25T18:53:55Z" duration-ms="923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- hSPE.admin.testcases.logintestcases -->
+      <class name="hSPE.admin.testcases.frontofficetest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:hSPE.admin.testcases.frontofficetest@13d4992d]" started-at="2021-04-25T18:56:43Z" name="beforeMethod" finished-at="2021-04-25T18:57:36Z" duration-ms="53243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkapmnttext()[pri:6, instance:hSPE.admin.testcases.frontofficetest@13d4992d]" started-at="2021-04-25T18:57:36Z" name="checkapmnttext" finished-at="2021-04-25T18:57:36Z" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkapmnttext -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:hSPE.admin.testcases.frontofficetest@13d4992d]" started-at="2021-04-25T18:57:36Z" name="afterMethod" finished-at="2021-04-25T18:57:36Z" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:hSPE.admin.testcases.frontofficetest@13d4992d]" started-at="2021-04-25T18:57:36Z" name="beforeMethod" finished-at="2021-04-25T18:58:37Z" duration-ms="60427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="clickvisitortest()[pri:7, instance:hSPE.admin.testcases.frontofficetest@13d4992d]" started-at="2021-04-25T18:58:37Z" name="clickvisitortest" finished-at="2021-04-25T18:58:43Z" duration-ms="6270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickvisitortest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:hSPE.admin.testcases.frontofficetest@13d4992d]" started-at="2021-04-25T18:58:43Z" name="afterMethod" finished-at="2021-04-25T18:58:43Z" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- hSPE.admin.testcases.frontofficetest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
